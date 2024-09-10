@@ -6,7 +6,7 @@ function AboutMe() {
   return (
     <section id="about-me" className="about-me">
       <div className="about-me-container">
-        <img src="IMG_1024.jpeg" alt="Shahrukh Khan" className="profile-pic" />
+        <img src="/IMG_1578.jpeg" alt="Shahrukh Khan" className="profile-pic" />
         <div className="about-me-text">
           <h2>About Me</h2>
           <p>
