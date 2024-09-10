@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shahrukhrkhan/my-personal-website.git/static/css/main.6c28ad73.css",
+    "main.js": "/shahrukhrkhan/my-personal-website.git/static/js/main.84e904c2.js",
+    "static/js/453.8463039d.chunk.js": "/shahrukhrkhan/my-personal-website.git/static/js/453.8463039d.chunk.js",
+    "index.html": "/shahrukhrkhan/my-personal-website.git/index.html",
+    "main.6c28ad73.css.map": "/shahrukhrkhan/my-personal-website.git/static/css/main.6c28ad73.css.map",
+    "main.84e904c2.js.map": "/shahrukhrkhan/my-personal-website.git/static/js/main.84e904c2.js.map",
+    "453.8463039d.chunk.js.map": "/shahrukhrkhan/my-personal-website.git/static/js/453.8463039d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c28ad73.css",
+    "static/js/main.84e904c2.js"
+  ]
+}
