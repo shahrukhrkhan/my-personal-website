@@ -16,9 +16,9 @@ function Experience() {
           <p>
             <strong>Responsibilities:</strong>
             <ul>
-              <li>Developed and implemented embedded systems using emulated hardware architectures.</li>
-              <li>Configured and optimized emulated hardware environments and provided technical support.</li>
-              <li>Designed, developed, and tested embedded software, integrating it with hardware emulation for seamless functionality.</li>
+              <li>Developed and implemented embedded systems using emulated hardware architectures using VxWorks real-time operating system (RTOS).</li>
+              <li>Configured and optimized emulated hardware environments and provided technical support for clients.</li>
+              <li>Designed, developed, and tested embedded software using VxWorks real-time operating system (RTOS), integrating it with hardware emulation for seamless functionality.</li>
               <li>Utilized Java to develop a program for advanced simulation technology, contributing to RTX product modeling.</li>
               <li>Developed a ground-up advanced GUI using JavaFX, performed debugging, front-end/back-end development, and extensive data analysis on program.</li>
               <li>Created comprehensive documentation and collaborated with cross-functional teams to ensure successful project delivery.</li>

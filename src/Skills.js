@@ -4,9 +4,9 @@ import './App.css';  // Using the same CSS file for consistent styling
 
 function Skills() {
   const skills = [
-    'Java', 'JavaFX', 'HTML', 'CSS', 'JavaScript', 'C++', 'SQL', 'Bash Scripting',
-    'Linux Development', 'Red Hat Enterprise Linux (RHEL)', 'Jira', 'Git', 'Agile Development',
-    'RESTful API', 'Front-End Development', 'Embedded Development', 'Debugging'
+    'Java', 'JavaFX', 'HTML', 'CSS', 'JavaScript', 'C#', 'ASP.NET', 'C++', 'SQL', 'Bash Scripting',
+    'Linux Development', 'Red Hat Enterprise Linux (RHEL)', 'Jira', 'Git', 'Spring', 'SQL', 'Networking', 'Agile Development', 'SDLC',
+    'RESTful API', 'Front-End Development', 'Back-End Development', 'Embedded Development', 'Debugging'
   ];
 
   return (
